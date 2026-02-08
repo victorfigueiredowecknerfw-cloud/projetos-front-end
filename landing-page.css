@@ -13,17 +13,17 @@ header{
 }
 .section-um {
     display: flex;
-    flex-direction: column; /* coluna, um embaixo do outro */
-    align-items: center;    /* centraliza horizontalmente os blocos */
-    justify-content: center; /* se quiser centralizar verticalmente na seção */
-    gap: 1px;           /* espaço entre elementos */
-    text-align: center;     /* centraliza o texto dentro de cada bloco */
+    flex-direction: column; 
+    align-items: center;    
+    justify-content: center; 
+    gap: 1px;           
+    text-align: center;     
     padding: 5px;
 }
 
 .section-um p {
     max-width: 800px;
-    line-height: 1.6; /* deixa a leitura mais agradável */
+    line-height: 1.6; 
 }
 .section-dois{
     display: flex;
